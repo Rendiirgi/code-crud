@@ -1,0 +1,15 @@
+body {
+    min-height: 3000px;
+}
+.profile {
+    background-image: url("img/kampus.jpg");
+    background-position: center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 10rem;
+    
+}
+
+#mhs {
+    padding-top: 6rem;
+}
